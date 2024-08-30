@@ -1,0 +1,95 @@
+.bgm{
+    background-color: red;
+    padding:20px;
+    text-align: center;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+.one{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    top: 10%;
+    float: left;
+    border-radius:0;
+}
+
+.two{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    z-index: -1;
+    top: 45%;
+    right: 38%;
+    border-radius:10%
+}
+.three{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    z-index: -1;
+    top: 40%;
+    float: left;
+    border-radius:0%
+}
+
+.four{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    top: 76%;
+    float: left;
+    border-radius:0%
+}
+
+.five{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    top: 40%;
+    right: 10px;
+    border-radius:0%
+}
+.six{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    top: 10%;
+    right: 10px;
+    border-radius:0%
+}
+.seven{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    top: 76%;
+    right: 10px;
+    border-radius:0%
+}
+.eight{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    top: 105%;
+    right: 10px;
+    border-radius:0%
+}
+.nine{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    top: 105%;
+    left: 8px;
+    border-radius:0%
+}
+
+
+
